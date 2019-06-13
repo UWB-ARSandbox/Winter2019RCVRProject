@@ -1,6 +1,6 @@
 # Winter2019RCVRProject
 ## Note
-This is a continuation of Aaron Holloway's work from Fall2018RCVRProject, also found in this organization.
+This is a continuation of Aaron Holloway's work from Fall2018RCVRProject (**rename to 2018.10.Rover-VRProjct**), also found in this organization.
 This page will be updated as changes are made. Credit for Fall state, and boot instructions, goes to Aaron, and those who have worked on this project prior.
 ## Summary
 A spinoff of the VR/AR/PC/RC teamwork done on and before Summer2018CRCSProject. The goal was to refine motion and interaction between a simple Unity scene and the RCCar, using an MR headset or keyboard. The scene is isolated from ASL and Orientation data in order to better troubleshoot and operate the RCCar during maintenance or upgrades.
